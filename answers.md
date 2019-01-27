@@ -52,4 +52,8 @@ Your branch is up to date with 'origin/master'.
 
 nothing to commit, working tree clean
 
-Answer 10: 
+Answer 10: no it was not updated
+Answer 11: an error message displayed saying to "pull" before pushing again
+Answer 12: yes the answers.md was updated
+Answer 13: .  ..  .git  .gitignore  README.md
+
